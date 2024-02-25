@@ -1,0 +1,30 @@
+body {
+    font-family: Inter Thin 100; /* Семейство шрифтов */
+    font-size: 11px; /* Размер основного шрифта в <p></p>  */
+    background-color:  #5988FF; /* Цвет фона веб-страницы */
+    color: #ffffff; /* Цвет основного текста */ 
+}
+h1 {
+    color: #D6FF6B; /* Цвет заголовка */
+    font-size: 25px; /* Размер шрифта в пунктах */
+    font-family: Georgia, serif; /* Семейство шрифтов */
+}
+img {
+    max-width: 100px;
+    max-height: 100px;
+}
+p {
+    font-size: 15px;
+    color: white;
+}
+li {
+    font-size: 20px;
+}
+input {
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    background-color:#ffffff;
+    color:#5988FF;
+    
+}
